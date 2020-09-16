@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tanagram\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tanagram\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+C:\Users\Tanagram\source\repos\06_Inheritance_Classes\06_Inheritance_Classes\bin\Debug\06_Inheritance_Classes.dll
+C:\Users\Tanagram\source\repos\06_Inheritance_Classes\06_Inheritance_Classes\bin\Debug\06_Inheritance_Classes.pdb
+C:\Users\Tanagram\source\repos\06_Inheritance_Classes\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.csprojAssemblyReference.cache
+C:\Users\Tanagram\source\repos\06_Inheritance_Classes\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Tanagram\source\repos\06_Inheritance_Classes\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.dll
+C:\Users\Tanagram\source\repos\06_Inheritance_Classes\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.pdb

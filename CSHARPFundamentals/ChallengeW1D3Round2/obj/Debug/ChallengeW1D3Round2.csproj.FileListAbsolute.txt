@@ -1,0 +1,14 @@
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\bin\Debug\ChallengeW1D3Round2.dll
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\bin\Debug\ChallengeW1D3Round2.pdb
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\obj\Debug\ChallengeW1D3Round2.csprojAssemblyReference.cache
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\obj\Debug\ChallengeW1D3Round2.csproj.CoreCompileInputs.cache
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\obj\Debug\ChallengeW1D3Round2.csproj.CopyComplete
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\obj\Debug\ChallengeW1D3Round2.dll
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\ChallengeW1D3Round2\obj\Debug\ChallengeW1D3Round2.pdb

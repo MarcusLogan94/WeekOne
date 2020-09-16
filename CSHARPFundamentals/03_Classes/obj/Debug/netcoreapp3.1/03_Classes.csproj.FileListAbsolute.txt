@@ -1,0 +1,13 @@
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\bin\Debug\netcoreapp3.1\03_Classes.exe
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\bin\Debug\netcoreapp3.1\03_Classes.deps.json
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\bin\Debug\netcoreapp3.1\03_Classes.runtimeconfig.json
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\bin\Debug\netcoreapp3.1\03_Classes.runtimeconfig.dev.json
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\bin\Debug\netcoreapp3.1\03_Classes.dll
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\bin\Debug\netcoreapp3.1\03_Classes.pdb
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\obj\Debug\netcoreapp3.1\03_Classes.csprojAssemblyReference.cache
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\obj\Debug\netcoreapp3.1\03_Classes.AssemblyInfoInputs.cache
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\obj\Debug\netcoreapp3.1\03_Classes.AssemblyInfo.cs
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\obj\Debug\netcoreapp3.1\03_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\obj\Debug\netcoreapp3.1\03_Classes.dll
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\obj\Debug\netcoreapp3.1\03_Classes.pdb
+C:\Users\Tanagram\source\repos\CSHARPFundamentals\03_Classes\obj\Debug\netcoreapp3.1\03_Classes.genruntimeconfig.cache
